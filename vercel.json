@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/oberoi",
+      "destination": "https://huggingface.co/spaces/SharanMenon/oberoi-aria-demo",
+      "permanent": true
+    }
+  ]
+}
